@@ -1,0 +1,2 @@
+# absensi_magang
+aplikasi magang mahasiswa_unpri_ahmadizzuazibi
